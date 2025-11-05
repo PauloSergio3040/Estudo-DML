@@ -27,9 +27,3 @@ Instale o MySQL ou outro SGBD compatível.
 Abra o cliente SQL (Workbench, DBeaver, etc.).
 
 Copie o conteúdo do arquivo .sql e execute os comandos.
-
-📚 Autor
-
-Paulo Sergio Brito Viana
-🎓 Estudante de Banco de Dados
-🎯 Foco em carreira como DBA
